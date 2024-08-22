@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvaSai9624
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning NEXT.JS
 - 💞️ I’m looking to collaborate on everything
 - 📫 reach me in dhruva9624@outlook.com
 
