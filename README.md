@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning NEXT.JS
 - 💞️ I’m looking to collaborate on everything
-- 📫 reach me in dhruva9624@outlook.com
+- 📫 reach me in astrophysicist9624@gmail.com
 - i know
 -   css
 -   js
