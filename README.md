@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NEXT.JS
 - 💞️ I’m looking to collaborate on everything
 - 📫 reach me in astrophysicist9624@gmail.com
+- i use arch by the way
 - i know
 -   css
 -   js
